@@ -1,4 +1,4 @@
-# FantRustic
+# Rustastic
 
 ### Basic Rust Syntax Stuff
 
